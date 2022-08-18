@@ -1,0 +1,16 @@
+h2 {
+  text-align: center;
+}
+.wrapper {
+  margin: 25px auto;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+input {
+  outline: none;
+}
+p {
+  margin-left: 490px;
+}
